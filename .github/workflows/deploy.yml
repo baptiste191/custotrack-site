@@ -29,11 +29,16 @@ jobs:
           user: ${{ secrets.SFTP_USERNAME }}
           pass: ${{ secrets.SFTP_PASSWORD }}
           port: 22
-          # Chemins
           localDir: "dist"
           remoteDir: "/www"
-          # Miroir local -> distant
-          reverse: "true"
-          delete: "true"          # supprime côté serveur ce qui n'existe plus localement
-          onlyNewer: "false"
-          options: "--verbose=3 --parallel=2"
+          reverse: "true"          # push local -> remote
+          onlyNewer: "false"       # on envoie tout (pour être sûr)
+          restoreMTime: "true"     # conserve la date modif
+          parallel: "2"
+          # 'delete' n'est pas un input supporté → on le passe dans options
+          options: "--delete --verbose=3"
+          # Petits réglages lftp utiles (auto-accept host key, timeouts…)
+          settings: |
+            set sftp:auto-confirm yes
+            set net:max-retries 2
+            set net:timeout 20
