@@ -22,18 +22,18 @@ jobs:
       - name: Build
         run: npm run build
 
-      # Déploiement FTPS vers OVH mutualisé
-      - name: FTP Deploy (FTPS)
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      - name: SFTP Deploy (lftp mirror)
+        uses: pressidium/lftp-mirror-action@v1
         with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          protocol: ftps
-          port: 21
+          host: ${{ secrets.SFTP_HOST }}
+          user: ${{ secrets.SFTP_USERNAME }}
+          pass: ${{ secrets.SFTP_PASSWORD }}
+          port: 22
           # Chemins
-          local-dir: dist/
-          server-dir: /www/
-          # Options utiles
-          state-name: .sync-state.json
-          dangerous-clean-slate: false
+          localDir: "dist"
+          remoteDir: "/www"
+          # Miroir local -> distant
+          reverse: "true"
+          delete: "true"          # supprime côté serveur ce qui n'existe plus localement
+          onlyNewer: "false"
+          options: "--verbose=3 --parallel=2"
