@@ -18,6 +18,13 @@ jobs:
 
       - name: Install deps
         run: npm ci
+        
+      - name: Create .env.production for Vite
+        run: |
+          cat > .env.production <<'EOF'
+          VITE_MAKE_WEBHOOK_URL=${{ secrets.VITE_MAKE_WEBHOOK_URL }}
+          VITE_CONTACT_WEBHOOK_URL=${{ secrets.VITE_CONTACT_WEBHOOK_URL }}
+          EOF
 
       - name: Build
         run: npm run build
