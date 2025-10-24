@@ -29,15 +29,26 @@ jobs:
           user: ${{ secrets.SFTP_USERNAME }}
           pass: ${{ secrets.SFTP_PASSWORD }}
           port: 22
+
+          # Chemins (IMPORTANT : pas de / devant www)
           localDir: "dist"
-          remoteDir: "/www"
-          reverse: "true"          # push local -> remote
-          onlyNewer: "false"       # on envoie tout (pour être sûr)
-          restoreMTime: "true"     # conserve la date modif
+          remoteDir: "www"
+
+          # push local -> remote
+          reverse: "true"
+
+          # On pousse tous les fichiers (tu pourras remettre true plus tard si tu veux ne pousser que les plus récents)
+          onlyNewer: "false"
+
+          # Conserve les dates mtime / 2 transferts en parallèle
+          restoreMTime: "true"
           parallel: "2"
-          # 'delete' n'est pas un input supporté → on le passe dans options
+
+          # Supprime côté serveur ce qui n'existe plus localement
+          # (tu peux enlever --delete pour le 1er run si tu veux être rassuré)
           options: "--delete --verbose=3"
-          # Petits réglages lftp utiles (auto-accept host key, timeouts…)
+
+          # Réglages lftp (simples & safe)
           settings: |
             set sftp:auto-confirm yes
             set net:max-retries 2
