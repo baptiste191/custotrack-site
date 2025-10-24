@@ -32,8 +32,8 @@ jobs:
           protocol: ftps
           port: 21
           # Chemins
-          local-dir: dist
-          server-dir: www
+          local-dir: dist/
+          server-dir: /www/
           # Options utiles
           state-name: .sync-state.json
           dangerous-clean-slate: false
