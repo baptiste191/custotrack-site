@@ -1,0 +1,319 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "features": "Fonctionnalités",
+    "about": "À propos",
+    "contact": "Contact",
+    "demo": "Demander une démo"
+  },
+  "hero": {
+  "eyebrow": "CRM nouvelle génération",
+  "title": "CustoTrack",
+  "subtitle": "La solution CRM pensée pour les petites entreprises : centralisez et pilotez votre activité grâce à une plateforme clé en main, intelligente et automatisable selon vos besoins.",
+  "cta_primary": "Demander une démo",
+  "cta_secondary": "Voir la vidéo"
+  },
+  "value_props": {
+    "title": "Pourquoi choisir CustoTrack ?",
+    "automation": {
+    "title": "Automatisation sur mesure",
+    "description": "Des automatisations qui s’adaptent à votre activité : e-mails, communication, synchronisation de données… pour vous faire gagner du temps quotidien."
+    },
+    "simplicity": {
+      "title": "Simplicité d’utilisation",
+      "description": "Une interface claire et moderne, pensée pour aller vite : moins de clics, plus d’impact."
+    },
+    "insights": {
+    "title": "Un CRM complet",
+    "description": "CustoTrack couvre l’ensemble de votre activité : RH, produits, stocks, clients, fournisseurs, finances et facturation."
+    },
+    "security": {
+      "title": "Sécurité & conformité",
+      "description": "Une architecture sécurisée, des pratiques transparentes et une conformité RGPD intégrée."
+    }
+  },
+"features": {
+  "title": "Fonctionnalités complètes",
+    "subtitle": "Un CRM flexible, avec des automatisations et une IA activables selon vos besoins",
+    "crm": {
+      "title": "CRM & Contacts",
+      "description": "Toutes vos informations clients, prospects et partenaires dans un seul outil, toujours à jour.",
+      "bullets": [
+        "Gestion des contacts et entreprises",
+        "Suivi des opportunités et du pipeline commercial",
+        "Traçabilité complète de vos interactions commerciales"
+      ]
+    },
+    "automation": {
+      "title": "Automatisations à la demande",
+      "description": "Activez uniquement les automatisations dont vous avez besoin : une approche sur mesure, sans complexité inutile.",
+      "bullets": [
+        "Mise en place personnalisée selon vos processus",
+        "Workflows automatisés pour gagner du temps",
+        "Intégrations avec vos outils métier"
+      ]
+    },
+    "ai_agent": {
+      "title": "Agent IA activable",
+      "description": "Activez un agent IA quand vous voulez aller plus loin.",
+      "bullets": [
+        "Réponses instantanées à vos questions",
+        "Aide à la décision et à la gestion",
+        "Personnalisable selon vos besoins"
+      ]
+    },
+    "reporting": {
+      "title": "Pilotage & reporting",
+      "description": "Suivez votre activité en temps réel pour prendre les bonnes décisions.",
+      "bullets": [
+        "Dashboards clairs et personnalisables",
+        "Suivi précis des indicateurs clés",
+        "Exports structurés pour une analyse fine"
+      ]
+    },
+    "security": {
+      "title": "Sécurité & fiabilité",
+      "description": "Vos données sont protégées et hébergées en toute conformité.",
+      "bullets": [
+        "Hébergement en Europe",
+        "Conformité RGPD",
+        "Accès sécurisé et traçabilité"
+      ]
+    }
+  },
+  "how_it_works": {
+    "title": "Comment ça marche ?",
+    "step1": {
+      "title": "1. Dites-nous ce dont vous avez besoin",
+      "description": "Expliquez-nous votre activité et vos priorités. Nous concevons avec vous la solution qui vous correspond."
+    },
+    "step2": {
+      "title": "2. On s’occupe de tout",
+      "description": "Nous configurons et personnalisons votre CRM pour qu’il réponde à vos besoins dès le départ."
+    },
+    "step3": {
+      "title": "3. Vous prenez les commandes",
+      "description": "Votre CRM est opérationnel. Invitez votre équipe et commencez à travailler immédiatement."
+    }
+  },
+  "integrations_teaser": {
+    "title": "Intégrations natives",
+    "subtitle": "Connectez CustoTrack à vos outils préférés et accélérez vos opérations"
+  },
+  "video": {
+    "title": "Découvrez CustoTrack en vidéo",
+    "subtitle": "En 90 secondes : du premier contact à la relance automatisée"
+  },
+  "lead_capture": {
+    "title": "Prêt à transformer votre CRM ?",
+    "subtitle": "Rejoignez les entreprises qui automatisent leur relation client et gagnent des heures chaque semaine",
+    "name": "Nom complet",
+    "company": "Entreprise",
+    "email": "Email professionnel",
+    "message": "Votre message",
+    "submit": "Envoyer",
+    "success": "Merci ! Nous vous contactons rapidement.",
+    "error": "Une erreur est survenue. Veuillez réessayer.",
+    "trust": "Vos données sont utilisées uniquement pour vous répondre et restent conformes au RGPD."
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "q1": {
+      "question": "Qu’est-ce que CustoTrack ?",
+      "answer": "CustoTrack est une solution CRM clé en main pour les TPE/PME. Elle vous permet de centraliser vos données, piloter votre activité et automatiser certaines tâches pour vous faire gagner du temps."
+    },
+    "q2": {
+      "question": "Comment se passe la mise en place du CRM ?",
+      "answer": "Notre équipe configure et personnalise votre CRM en fonction de votre activité. Vous n’avez rien à installer, tout est prêt à l’emploi dès le départ."
+    },
+    "q3": {
+      "question": "Quelles sont les intégrations disponibles ?",
+      "answer": "CustoTrack s’adapte à vos outils existants pour éviter toute rupture dans votre manière de travailler. Notre équipe peut également mettre en place des intégrations sur mesure."
+    },
+    "q4": {
+      "question": "Est-ce sécurisé ?",
+      "answer": "La sécurité et la confidentialité sont au cœur de notre approche : vos données sont hébergées en Europe et protégées selon les standards RGPD."
+    },
+    "q5": {
+      "question": "Quel est le prix ?",
+      "answer": "Nos formules sont conçues pour s’adapter aux petites entreprises. Contactez-nous pour une proposition personnalisée après la démo."
+    },
+    "q6": {
+      "question": "Comment se déroule une démo personnalisée ?",
+      "answer": "Lors de la démo, nous vous présentons une version adaptée à votre activité, nous répondons à vos questions et vous montrez comment CustoTrack peut simplifier votre quotidien."
+    }
+  },
+  "cta_final": {
+    "title": "Prêt à démarrer ?",
+    "subtitle": "Demandez une démo personnalisée et voyez comment CustoTrack peut accélérer votre croissance.",
+    "button": "Demander une démo"
+  },
+  "footer": {
+    "tagline": "L’efficacité, sans complexité",
+    "product": "Produit",
+    "company": "Entreprise",
+    "legal": "Légal",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "imprint": "Mentions légales",
+    "rights": "© 2025 CustoTrack. Tous droits réservés."
+  },
+  "demo_page": {
+    "title": "Demander une démo",
+    "subtitle": "Indiquez vos besoins : nous vous montrons comment CustoTrack s’adapte à votre activité.",
+    "name": "Nom complet *",
+    "company": "Entreprise *",
+    "email": "Email professionnel *",
+    "phone": "Téléphone",
+    "message": "Parlez-nous de votre projet",
+    "submit": "Demander ma démo",
+    "trust_note": "Vos données restent confidentielles et sont uniquement utilisées pour organiser la démo.",
+    "success_title": "Demande envoyée !",
+    "success_message": "Merci pour votre intérêt. Notre équipe vous contactera sous 24h.",
+    "back_home": "Retour à l'accueil"
+  },
+  "contact_page": {
+    "title": "Contactez-nous",
+    "subtitle": "Une question, un besoin spécifique ou un projet en tête ? Notre équipe est à votre disposition pour vous accompagner.",
+    "name": "Nom complet *",
+    "email": "Email *",
+    "subject": "Sujet",
+    "message": "Message *",
+    "submit": "Envoyer le message",
+    "success": "Message envoyé avec succès !",
+    "info_title": "Informations de contact",
+    "info_email": "contact@custotrack.com",
+    "info_phone": "+33 7 81 04 19 02",
+    "info_address": "Clermont-Ferrand, France"
+  },
+  "about_page": {
+    "title": "À propos de CustoTrack",
+    "subtitle": "Notre mission : rendre les outils CRM et l’automatisation accessibles à toutes les petites entreprises",
+    "story_title": "Notre histoire",
+    "story": "CustoTrack est né en 2025 d’un constat simple : les CRM traditionnels sont souvent trop complexes, coûteux ou sous-exploités par les petites structures. Nous avons voulu créer une alternative plus simple, plus intelligente et mieux connectée, capable de s’adapter réellement à chaque entreprise.",
+    "mission_title": "Notre mission",
+    "mission": "Offrir une solution clé en main qui combine CRM, automatisation et intelligence artificielle, pour que chaque entrepreneur puisse se concentrer sur l’essentiel.",
+    "values_title": "Nos valeurs",
+    "value1": {
+      "title": "Simplicité",
+      "description": "La technologie doit s’effacer derrière l’usage pour laisser place à l’efficacité."
+    },
+    "value2": {
+      "title": "Innovation",
+      "description": "Construire un CRM moderne, évolutif et connecté à votre réalité."
+    },
+    "value3": {
+      "title": "Transparence",
+      "description": "Des engagements clairs, une communication directe et des choix assumés."
+    },
+    "timeline_title": "Notre évolution",
+    "timeline": [
+      {
+        "year": "2025",
+        "title": "Création",
+        "description": "Lancement du projet avec l’ambition de rendre l’automatisation accessible aux petites entreprises."
+      },
+      {
+        "year": "",
+        "title": "Premier prototype",
+        "description": "Développement d’un CRM simple, connecté et évolutif."
+      },
+      {
+        "year": "",
+        "title": "Premières démos",
+        "description": "Ouverture des présentations personnalisées à d’autres entreprises."
+      }
+    ],
+    "founder_title": "Fondateur",
+    "founder_name": "Baptiste Prévost",
+    "founder_role": "Direction & Vision produit",
+    "founder_bio": "Issu d’un parcours en ingénierie et en management, Baptiste met son expertise en IA et automatisation au service des petites entreprises."
+  },
+  "features_page": {
+    "title": "Fonctionnalités",
+    "subtitle": "Des outils simples et puissants pour automatiser, vendre et faire grandir votre activité",
+    "cta": "Demander une démo"
+  },
+  "not_found": {
+    "title": "Page non trouvée",
+    "subtitle": "Désolé, la page que vous cherchez n'existe pas.",
+    "back_home": "Retour à l'accueil"
+  },
+  "cookie_consent": {
+    "message": "Nous utilisons des cookies essentiels au fonctionnement du site. Vous pouvez choisir d’activer ou non les cookies d’analytics.",
+    "essential": "Essentiel uniquement",
+    "accept": "Accepter les analytics"
+  },
+  "theme": {
+    "light": "Clair",
+    "dark": "Sombre",
+    "toggle": "Changer de thème"
+  },
+  "legal": {
+    "privacy_title": "Politique de confidentialité",
+    "terms_title": "Conditions d'utilisation",
+    "imprint_title": "Mentions légales",
+    "last_updated": "Dernière mise à jour : 2025-10-22"
+  },
+  "privacy_policy": {
+    "title": "Politique de confidentialité",
+    "last_updated": "2025-10-24",
+    "preamble": "La présente Politique de confidentialité décrit la façon dont CustoTrack collecte, utilise, conserve et protège vos données à caractère personnel lorsque vous consultez notre site, prenez contact avec nous ou sollicitez une démonstration de notre solution. Nous accordons une importance primordiale au respect de votre vie privée et nous traitons vos données conformément au Règlement (UE) 2016/679 dit Règlement général sur la protection des données (RGPD) et à la législation française applicable.",
+    "scope": "Cette Politique s’applique à l’ensemble des traitements de données réalisés via notre site vitrine et nos formulaires de contact et de demande de démo. Elle ne couvre pas, le cas échéant, les traitements réalisés par des services tiers accessibles depuis notre site via des liens externes, lesquels disposent de leurs propres politiques de confidentialité.",
+    "title_controller" : "Responsable du traitement",
+    "controller": "Le responsable du traitement est CustoTrack, [A RENSEIGNER pour la forme juridique], représentée par Baptiste Prévost en qualité de représentant légal. Le siège social est situé à [A RENSEIGNER]. CustoTrack est joignable à l’adresse électronique [A RENSEIGNER] pour toute question relative à la protection des données. Le cas échéant, le numéro SIREN/SIRET sera communiqué dès son attribution et intégré à la présente Politique.",
+    "title_consent_and_legitimate_interest" : "Consentement et intérêt légitime",
+    "consent_and_legitimate_interest": "En nous adressant une demande via nos formulaires ou en interagissant avec notre site, vous consentez au traitement des informations que vous nous fournissez à des fins de gestion de votre demande et d’organisation d’une démonstration personnalisée. Certains traitements strictement nécessaires au bon fonctionnement du site et à la sécurité reposent sur notre intérêt légitime, notamment la journalisation technique, la prévention de la fraude et la mesure d’audience lorsque celle-ci est opérée avec votre consentement pour les cookies non essentiels. Vous conservez la possibilité de retirer votre consentement à tout moment pour les traitements qui y sont fondés, sans effet sur la licéité des traitements antérieurs.",
+    "title_data_collected" : "Données collectées",
+    "data_collected": "Nous ne collectons que les données strictement utiles à la compréhension et au suivi de votre demande. Lorsque vous remplissez un formulaire, vous nous communiquez votre nom complet, votre adresse de courrier électronique professionnelle, le nom de votre entreprise et, si vous le souhaitez, un numéro de téléphone ainsi que des précisions sur votre projet. Afin d’assurer la traçabilité, la sécurité et la qualité de service, nous enregistrons également des informations techniques liées à l’envoi du formulaire, telles que la date et l’heure de transmission, la page d’origine depuis laquelle la demande a été effectuée, les informations de navigateur (user agent) et l’adresse IP publique transmise par le prestataire de routage. Ces informations ne sont jamais utilisées à des fins étrangères au traitement de votre demande, à la sécurité ou à l’amélioration raisonnée de nos services.",
+    "title_collection_methods" : "Méthodes de collecte",
+    "collection_methods": "Les données sont recueillies directement auprès de vous lorsque vous saisissez et soumettez un formulaire sur notre site. Les métadonnées techniques utiles à la sécurité et à la traçabilité sont collectées automatiquement au moment de l’envoi. Des cookies strictement nécessaires au fonctionnement du site peuvent être déposés sur votre terminal. Les cookies d’analyse d’audience, lorsqu’ils sont proposés, ne sont activés qu’après votre accord explicite via le bandeau de consentement.",
+    "title_purposes": "Finalités des traitements", 
+    "purposes": "Les informations que vous nous confiez sont utilisées exclusivement pour comprendre vos besoins, organiser et réaliser une démonstration personnalisée de CustoTrack, répondre à vos questions, documenter nos échanges et, s’il y a lieu, assurer un suivi professionnel dans un contexte B2B. Les données techniques associées à l’envoi de votre demande servent à des finalités de sécurité (prévention de l’abus et du spam), de traçabilité interne et d’amélioration progressive de l’ergonomie et de la performance de notre site lorsque la mesure d’audience est activée avec votre consentement.",
+    "title_legal_basis" : "Base légale",
+    "legal_basis": "Conformément à l’article 6 du RGPD, les traitements mis en œuvre reposent, selon les cas, sur votre consentement (formulaires, cookies non essentiels) et sur notre intérêt légitime (sécurisation du site, journalisation technique, suivi B2B entre professionnels, amélioration raisonnable du service). Lorsque la loi exige votre consentement préalable, nous le sollicitons de manière explicite et transparente. Vous pouvez à tout moment vous opposer aux traitements fondés sur l’intérêt légitime pour des raisons tenant à votre situation particulière, sous réserve de motifs impérieux et légitimes pour lesquels le traitement serait néanmoins nécessaire.",
+    "title_retention" : "Durées de conservation",
+    "retention": "Nous conservons les données communiquées via les formulaires pendant une durée maximale de trois ans à compter de votre dernier échange initié auprès de CustoTrack ou de la collecte, sauf opposition de votre part ou obligation légale de conservation plus longue. Les journaux techniques utiles à la sécurité sont conservés pour des durées proportionnées aux finalités poursuivies. Les cookies de mesure d’audience, lorsqu’ils sont activés, expirent au terme d’une période n’excédant pas treize mois. À l’issue de ces délais, les données sont supprimées ou anonymisées de manière irréversible.",
+    "title_hosting_and_security" : "Hébergement et sécurité",
+    "hosting_and_security": "Notre site est hébergé en France par OVHcloud. Les communications entre votre navigateur et notre site sont protégées par un chiffrement TLS (HTTPS). L’accès aux données est strictement limité aux personnes habilitées et soumises à des engagements de confidentialité, conformément au principe du moindre privilège. Nous appliquons des mesures organisationnelles et techniques adaptées pour prévenir toute perte, altération ou accès non autorisé, et nous procédons à des contrôles réguliers de bon fonctionnement et de mise à jour.",
+    "title_processors_and_transfers": "Sous-traitants et transferts internationaux",
+    "processors_and_transfers": "Pour acheminer et organiser vos demandes, nous recourons à des prestataires agissant en qualité de sous-traitants au sens du RGPD. Les informations transmises via nos formulaires sont reçues via un flux sécurisé par la plateforme Make (anciennement Integromat) et organisées dans une base dédiée chez Airtable afin de faciliter le suivi des prospects. Ces prestataires peuvent traiter des données depuis des pays situés en dehors de l’Espace économique européen. Dans ce cas, les transferts sont encadrés par des garanties appropriées, notamment les Clauses contractuelles types de la Commission européenne et des engagements contractuels renforcés en matière de sécurité et de confidentialité. Nous veillons à ce que ces prestataires n’interviennent que sur instruction documentée, pour les seules finalités nécessaires et pour des durées strictement limitées.",
+    "title_data_sharing": "Partage des données",
+    "data_sharing": "Les données collectées ne font l’objet d’aucune cession à des tiers à des fins commerciales. Elles sont utilisées exclusivement en interne par CustoTrack et par nos sous-traitants techniques dûment encadrés pour le traitement de votre demande, l’organisation d’une démonstration, la sécurité et la maintenance. En dehors de ces cas, vos informations ne sont communiquées que pour satisfaire à des obligations légales, répondre à des demandes d’autorités compétentes ou faire valoir nos droits en justice lorsque cela s’avère nécessaire et proportionné.",
+    "title_cookies": "Cookies",
+    "cookies": "Nous utilisons des cookies strictement nécessaires pour assurer le fonctionnement du site, notamment la gestion de vos préférences (par exemple, langue d’affichage et consentement). Des cookies d’analyse d’audience peuvent être proposés pour nous aider à comprendre l’utilisation du site et à en améliorer l’ergonomie ; ils ne sont déposés qu’avec votre accord explicite et peuvent être refusés sans altérer l’accès aux contenus essentiels. Vous conservez la maîtrise de vos choix à tout moment via le bandeau de consentement et les réglages de votre navigateur.",
+    "title_your_rights": "Vos droits",
+    "your_rights": "Vous disposez, dans les conditions et limites prévues par la réglementation, de droits d’accès, de rectification, d’effacement, de limitation, d’opposition pour motifs légitimes, ainsi que d’un droit à la portabilité lorsque cela s’applique. Pour exercer vos droits ou pour toute question relative à la protection des données, vous pouvez nous écrire à l’adresse suivante : contact@custotrack.com. Une preuve d’identité pourra être sollicitée en cas de doute raisonnable afin de sécuriser la procédure. Nous nous efforcerons d’apporter une réponse complète et motivée dans un délai d’un mois à compter de la réception de votre demande, délai prolongeable si la complexité ou le nombre de demandes l’exigent. Vous disposez également du droit d’introduire une réclamation auprès de la Commission nationale de l’informatique et des libertés (CNIL) si vous estimez que vos droits ne sont pas respectés.",
+    "title_minors_and_professional_use": "Mineurs et usage professionnel",
+    "minors_and_professional_use": "CustoTrack s’adresse à un public professionnel. Nous ne sollicitons ni n’enregistrons sciemment de données personnelles concernant des mineurs. Si, malgré nos précautions, de telles informations nous parvenaient, elles seraient supprimées dans les meilleurs délais dès identification.",
+    "title_changes": "Modifications de la politique",
+    "changes": "Nous pouvons mettre à jour cette Politique afin de tenir compte des évolutions légales, techniques ou opérationnelles. La date de dernière mise à jour figurant en tête du document fait foi. En cas de modifications substantielles affectant vos droits ou la nature des traitements, nous vous en informerons par un moyen approprié sur notre site.",
+    "title_contact": "Contact",
+    "contact": "Pour toute question relative à cette Politique ou pour exercer vos droits, vous pouvez contacter CustoTrack à l’adresse contact@custotrack.com ou par courrier postal à [A RENSEIGNER]. Nous nous engageons à traiter vos demandes avec diligence, transparence et dans le respect des délais légaux.",
+    "explanatory_clause": "Exemple de clause d’information : lorsque vous remplissez un formulaire de contact ou de demande de démo sur notre site, nous collectons votre nom, votre adresse e-mail professionnelle, le nom de votre entreprise et, de manière facultative, votre numéro de téléphone, ainsi que le contenu de votre message. Nous enregistrons également, pour des raisons de sécurité et de traçabilité, la date et l’heure d’envoi, la page d’origine, l’adresse IP publique et les informations relatives à votre navigateur. Ces données sont utilisées exclusivement pour répondre à votre demande, organiser une démonstration et assurer la sécurité de nos services. Les informations sont transmises et stockées par nos prestataires techniques Make et Airtable, susceptibles d’opérer hors de l’Union européenne sous couvert de garanties adéquates, notamment les Clauses contractuelles types. Vos données sont conservées pour une durée n’excédant pas trois ans à compter de votre dernier contact, puis supprimées ou anonymisées. Vous pouvez exercer à tout moment vos droits (accès, rectification, suppression, opposition, portabilité) en nous écrivant à contact@custotrack.com."
+  },
+  "legal_notice": {
+    "title": "Mentions légales",
+    "last_updated": "2025-10-24",
+    "editor": {
+      "title": "Éditeur du site",
+      "content": "Le présent site, accessible à l’URL www.custotrack.com, est édité par la société CustoTrack [forme juridique à renseigner], immatriculée au RCS de [ville à renseigner] sous le numéro [SIREN/SIRET à renseigner], code APE [à renseigner], numéro de TVA [à renseigner]. <br />Le siège social est situé [adresse complète à renseigner]. <br />Adresse e-mail : [contact@custotrack.com]. <br />Téléphone : +33 7 81 04 19 02. <br />Directeur de la publication : Baptiste Prévost."
+    },
+    "hosting": {
+      "title": "Hébergeur",
+      "content": "Le site est hébergé par la société OVH SAS, dont le siège social est situé 2 rue Kellermann, 59100 Roubaix - France."
+    },
+    "terms_of_use": {
+      "title": "Conditions d'utilisation",
+      "content": "Le site www.custotrack.com ainsi que l’ensemble de ses éléments (textes, marques, logos, icônes, visuels, photographies, illustrations) sont protégés par les législations françaises et internationales relatives à la propriété intellectuelle."
+    },
+    "personal_data": {
+      "title": "Données personnelles",
+      "content": "Vous pouvez consulter le site www.custotrack.com sans avoir à décliner votre identité ni à fournir de données personnelles. Cependant, certaines informations peuvent être collectées lorsque vous remplissez un formulaire de contact ou de demande de démonstration afin de permettre à CustoTrack de traiter votre demande et d’y répondre. Ces données sont utilisées exclusivement dans le cadre de la relation initiée par l’utilisateur. Pour plus d’informations sur la manière dont nous collectons, utilisons et protégeons vos données, veuillez consulter notre Politique de confidentialité."
+    },
+    "contact": {
+      "title": "Contact",
+      "content": "Pour toute question relative au site ou à son utilisation, vous pouvez contacter CustoTrack par e-mail à l’adresse contact@custotrack.com."
+    }
+  }
+}
