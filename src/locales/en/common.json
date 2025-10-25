@@ -84,15 +84,15 @@
   "how_it_works": {
     "title": "How it works",
     "step1": {
-      "title": "1. Tell us what you need",
+      "title": "Tell us what you need",
       "description": "Share your business and priorities with us. Together, we design the solution that fits you best."
     },
     "step2": {
-      "title": "2. We handle everything",
+      "title": "We handle everything",
       "description": "We configure and customise your CRM so it meets your needs from day one."
     },
     "step3": {
-      "title": "3. You take the lead",
+      "title": "You take the lead",
       "description": "Your CRM is ready. Invite your team and start working right away."
     }
   },

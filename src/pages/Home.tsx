@@ -192,8 +192,8 @@ export default function Home() {
                 viewport={{ once: true }}
                 className="text-center"
               >
-                <div className="text-6xl font-bold text-primary/20 mb-4">
-                  {step.number}
+                <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-primary/10 mb-4">
+                  <span className="text-2xl font-bold text-primary">{step.number}</span>
                 </div>
                 <h3 className="text-xl font-semibold mb-2">{step.title}</h3>
                 <p className="text-muted-foreground">{step.description}</p>

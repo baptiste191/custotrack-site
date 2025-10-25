@@ -84,15 +84,15 @@
   "how_it_works": {
     "title": "Comment ça marche ?",
     "step1": {
-      "title": "1. Dites-nous ce dont vous avez besoin",
+      "title": "Dites-nous ce dont vous avez besoin",
       "description": "Expliquez-nous votre activité et vos priorités. Nous concevons avec vous la solution qui vous correspond."
     },
     "step2": {
-      "title": "2. On s’occupe de tout",
+      "title": "On s’occupe de tout",
       "description": "Nous configurons et personnalisons votre CRM pour qu’il réponde à vos besoins dès le départ."
     },
     "step3": {
-      "title": "3. Vous prenez les commandes",
+      "title": "Vous prenez les commandes",
       "description": "Votre CRM est opérationnel. Invitez votre équipe et commencez à travailler immédiatement."
     }
   },
