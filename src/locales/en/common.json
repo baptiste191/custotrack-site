@@ -7,9 +7,9 @@
     "demo": "Request a demo"
   },
   "hero": {
-  "eyebrow": "Next-gen CRM",
+  "eyebrow": "Next-gen ERP & CRM",
   "title": "CustoTrack",
-  "subtitle": "The CRM solution designed for small businesses: centralize and manage your operations with a turnkey, intelligent, and fully adaptable platform.",
+  "subtitle": "CustoTrack combines ERP and CRM: a simple platform that centralizes the management of your clients, suppliers, HR, products, services, and finances — and can be automated to fit your needs.",
   "cta_primary": "Request a demo",
   "cta_secondary": "Watch video"
   },
@@ -24,7 +24,7 @@
     "description": "A clear and modern interface designed for speed: fewer clicks, more impact."
   },
   "insights": {
-    "title": "A complete CRM",
+    "title": "A complete ERP & CRM",
     "description": "CustoTrack covers your entire business: HR, products, inventory, customers, suppliers, finance, and invoicing."
   },
   "security": {
@@ -34,7 +34,7 @@
   },
   "features": {
     "title": "Complete features",
-    "subtitle": "A flexible CRM with automations and AI that can be activated on demand",
+    "subtitle": "A flexible ERP & CRM with automations and AI that can be activated on demand",
     "crm": {
       "title": "CRM & Contacts",
       "description": "All your customer, prospect, and partner information in one place, always up to date.",
@@ -120,7 +120,7 @@
     "title": "Frequently asked questions",
     "q1": {
       "question": "What is CustoTrack?",
-      "answer": "CustoTrack is a turnkey CRM solution designed for small businesses. It allows you to centralize your data, manage your operations, and automate certain tasks to save you time."
+      "answer": "CustoTrack is a turnkey ERP & CRM solution designed for small businesses. It allows you to centralize your data, manage your operations, and automate certain tasks to save you time."
     },
     "q2": {
       "question": "How does the CRM setup work?",
@@ -192,7 +192,7 @@
     "story_title": "Our story",
     "story": "CustoTrack was born in 2025 from a simple observation: traditional CRMs are often too complex, expensive, or underused by small businesses. We wanted to create a simpler, smarter, and more connected alternative that truly adapts to each company.",
     "mission_title": "Our mission",
-    "mission": "To provide a turnkey solution that combines CRM, automation, and artificial intelligence, so every entrepreneur can focus on what matters most.",
+    "mission": "To provide a turnkey solution that combines ERP & CRM, automation, and artificial intelligence, so every entrepreneur can focus on what matters most.",
     "values_title": "Our values",
     "value1": {
       "title": "Simplicity",

@@ -7,9 +7,9 @@
     "demo": "Demander une démo"
   },
   "hero": {
-  "eyebrow": "CRM nouvelle génération",
+  "eyebrow": "ERP & CRM nouvelle génération",
   "title": "CustoTrack",
-  "subtitle": "La solution CRM pensée pour les petites entreprises : centralisez et pilotez votre activité grâce à une plateforme clé en main, intelligente et automatisable selon vos besoins.",
+  "subtitle": "CustoTrack combine ERP et CRM : une plateforme simple qui centralise la gestion de vos clients, fournisseurs, RH, produits, services, finances et automatisable selon vos besoins.",
   "cta_primary": "Demander une démo",
   "cta_secondary": "Voir la vidéo"
   },
@@ -24,7 +24,7 @@
       "description": "Une interface claire et moderne, pensée pour aller vite : moins de clics, plus d’impact."
     },
     "insights": {
-    "title": "Un CRM complet",
+    "title": "Un ERP & CRM complet",
     "description": "CustoTrack couvre l’ensemble de votre activité : RH, produits, stocks, clients, fournisseurs, finances et facturation."
     },
     "security": {
@@ -34,7 +34,7 @@
   },
 "features": {
   "title": "Fonctionnalités complètes",
-    "subtitle": "Un CRM flexible, avec des automatisations et une IA activables selon vos besoins",
+    "subtitle": "Un ERP & CRM flexible, avec des automatisations et une IA activables selon vos besoins",
     "crm": {
       "title": "CRM & Contacts",
       "description": "Toutes vos informations clients, prospects et partenaires dans un seul outil, toujours à jour.",
@@ -120,11 +120,11 @@
     "title": "Questions fréquentes",
     "q1": {
       "question": "Qu’est-ce que CustoTrack ?",
-      "answer": "CustoTrack est une solution CRM clé en main pour les TPE/PME. Elle vous permet de centraliser vos données, piloter votre activité et automatiser certaines tâches pour vous faire gagner du temps."
+      "answer": "CustoTrack est une solution ERP & CRM clé en main pour les TPE/PME. Elle vous permet de centraliser vos données, piloter votre activité et automatiser certaines tâches pour vous faire gagner du temps."
     },
     "q2": {
       "question": "Comment se passe la mise en place du CRM ?",
-      "answer": "Notre équipe configure et personnalise votre CRM en fonction de votre activité. Vous n’avez rien à installer, tout est prêt à l’emploi dès le départ."
+      "answer": "Notre équipe configure et personnalise votre ERP & CRM en fonction de votre activité. Vous n’avez rien à installer, tout est prêt à l’emploi dès le départ."
     },
     "q3": {
       "question": "Quelles sont les intégrations disponibles ?",
@@ -190,9 +190,9 @@
     "title": "À propos de CustoTrack",
     "subtitle": "Notre mission : rendre les outils CRM et l’automatisation accessibles à toutes les petites entreprises",
     "story_title": "Notre histoire",
-    "story": "CustoTrack est né en 2025 d’un constat simple : les CRM traditionnels sont souvent trop complexes, coûteux ou sous-exploités par les petites structures. Nous avons voulu créer une alternative plus simple, plus intelligente et mieux connectée, capable de s’adapter réellement à chaque entreprise.",
+    "story": "CustoTrack est né en 2025 d’un constat simple : les ERP & CRM traditionnels sont souvent trop complexes, coûteux ou sous-exploités par les petites structures. Nous avons voulu créer une alternative plus simple, plus intelligente et mieux connectée, capable de s’adapter réellement à chaque entreprise.",
     "mission_title": "Notre mission",
-    "mission": "Offrir une solution clé en main qui combine CRM, automatisation et intelligence artificielle, pour que chaque entrepreneur puisse se concentrer sur l’essentiel.",
+    "mission": "Offrir une solution clé en main qui combine ERP & CRM, automatisation et intelligence artificielle, pour que chaque entrepreneur puisse se concentrer sur l’essentiel.",
     "values_title": "Nos valeurs",
     "value1": {
       "title": "Simplicité",
@@ -216,7 +216,7 @@
       {
         "year": "",
         "title": "Premier prototype",
-        "description": "Développement d’un CRM simple, connecté et évolutif."
+        "description": "Développement d’un ERP & CRM simple, connecté et évolutif."
       },
       {
         "year": "",
